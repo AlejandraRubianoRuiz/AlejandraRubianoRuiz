@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Alejandra Rubiano 👋
 
 Software Developer focused on building full-stack web applications.
