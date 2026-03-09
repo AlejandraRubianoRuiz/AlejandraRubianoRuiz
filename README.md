@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**AlejandraRubianoRuiz/AlejandraRubianoRuiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Alejandra Rubiano 👋
 
-Here are some ideas to get you started:
+Software Developer focused on building full-stack web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+Frontend
+- Vue.js
+- JavaScript
+
+Backend
+- Java (Spring Boot)
+- Node.js
+- PHP (Symfony)
+
+Database
+- MySQL
+
+## Projects
+
+- Veterinary Inventory System
+- Metal Sheet Sales Support System
+- Tech Products E-commerce MVP
