@@ -1,4 +1,4 @@
-# Hi, I'm Alejandra Rubiano 👋
+# Hi, I'm Maria Alejandra Rubiano 👋
 
 Software Developer focused on building full-stack web applications.
 
